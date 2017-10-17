@@ -1,0 +1,17 @@
+Type directory path where the files below are located:
+numeric.dat
+physical.dat
+slope_limiters.dat
+solve.dat
+
+Obs.: Do not type `$HOME` or `~/` to refer to home directory.
+Ex.: /home/username/projects/theProject/cases/case-01
+
+path:
+/Users/rogerio/programacao/GITHUB/paper3d/simulation-parameters/Benchmark-3D/case-1
+/Users/rogerio/programacao/GITHUB/paper3d/simulation-parameters/Benchmark-3D/oblique-drain
+
+/Users/rogerio/programacao/GITHUB/paper3d/simulation-parameters/Benchmark-3D/case-5
+
+/Users/rogerio/programacao/GITHUB/paper3d/simulation-parameters/Benchmark-3D/monotonicity
+
